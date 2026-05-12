@@ -1,5 +1,10 @@
 # @xratesapi/sdk
 
+[![npm version](https://img.shields.io/npm/v/@xratesapi/sdk.svg)](https://www.npmjs.com/package/@xratesapi/sdk)
+[![npm downloads](https://img.shields.io/npm/dm/@xratesapi/sdk.svg)](https://www.npmjs.com/package/@xratesapi/sdk)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/@xratesapi/sdk)](https://bundlephobia.com/package/@xratesapi/sdk)
+[![license](https://img.shields.io/npm/l/@xratesapi/sdk.svg)](https://github.com/xratesapi/js-sdk/blob/main/LICENSE)
+
 Official JavaScript / TypeScript SDK for the [XRates exchange rate API](https://xratesapi.com).
 
 ESM-only, zero runtime dependencies, native `fetch` (Node 18+, Deno, Bun, modern browsers).
